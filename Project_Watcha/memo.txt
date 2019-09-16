@@ -1,0 +1,11 @@
+
+전체 영화 이름, 점수, 이미지url 크롤링, DB적재
+	https://watcha.com/ko-KR/users/NP9vLVLeox6kl/contents/movies/ratings
+이름/점수별 정렬 기능
+영화 이미지 클릭 시 설명 모달
+	https://watcha.com/ko-KR/contents/+영화고유id
+점수별로 1-5점 구글차트 나타내기
+----------
+유지니케케 
+검색하기 버튼 ->	1. 전체 영화(이미지(url), 이름, 랭크) 나열	-> 이미지 클릭 시 설명 모달
+			2. 구글차트
